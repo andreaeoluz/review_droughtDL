@@ -1,0 +1,1862 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Qin, QM
+   Wu, ZH
+   Zhang, TY
+   Sagan, V
+   Zhang, ZX
+   Zhang, Y
+   Zhang, CY
+   Ren, HZ
+   Sun, YH
+   Xu, W
+   Zhao, C
+AF Qin, Qiming
+   Wu, Zihua
+   Zhang, Tianyuan
+   Sagan, Vasit
+   Zhang, Zhaoxu
+   Zhang, Yao
+   Zhang, Chengye
+   Ren, Huazhong
+   Sun, Yuanheng
+   Xu, Wei
+   Zhao, Cong
+TI Optical and Thermal Remote Sensing for Monitoring Agricultural Drought
+SO REMOTE SENSING
+RI LI, MINGZE/KEI-2317-2024; Zhang, Tianyuan/KVA-6837-2024; 吴,
+   自华/AAR-3339-2021; wu, zi hua/I-4962-2016
+OI Sagan, Vasit/0000-0003-4375-2096; wu, zi hua/0000-0002-4903-4485; Zhang,
+   Yao/0000-0002-3818-1164; Sun, Yuanheng/0000-0002-8768-9132; Zhang,
+   Chengye/0000-0002-4902-8704; REN, Huazhong/0000-0002-2882-308X; Zhang,
+   Tianyuan/0000-0001-9104-0830; Wei, Xu/0000-0002-8341-2021
+TC 17
+Z9 17
+EI 2072-4292
+PD DEC
+PY 2021
+VL 13
+IS 24
+AR 5092
+DI 10.3390/rs13245092
+UT WOS:000737295200001
+ER
+
+PT J
+AU Xu, ZH
+   Sun, H
+   Zhang, T
+   Xu, HY
+   Wu, D
+   Gao, JH
+AF Xu, Zhenheng
+   Sun, Hao
+   Zhang, Tian
+   Xu, Huanyu
+   Wu, Dan
+   Gao, Jinhua
+TI The high spatial resolution Drought Response Index (HiDRI): An
+   integrated framework for monitoring vegetation drought with remote
+   sensing, deep learning, and spatiotemporal fusion
+SO REMOTE SENSING OF ENVIRONMENT
+TC 0
+Z9 0
+SN 0034-4257
+EI 1879-0704
+PD OCT 1
+PY 2024
+VL 312
+AR 114324
+DI 10.1016/j.rse.2024.114324
+EA JUL 2024
+UT WOS:001280733500001
+ER
+
+PT J
+AU Shen, RP
+   Huang, AQ
+   Li, BL
+   Guo, J
+AF Shen, Runping
+   Huang, Anqi
+   Li, Bolun
+   Guo, Jia
+TI Construction of a drought monitoring model using deep learning based on
+   multi-source remote sensing data
+SO INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+RI Shen, Runping/AGH-7650-2022; Huang, Anqi/ABF-1903-2021
+OI Huang, Anqi/0000-0001-9261-5966; Shen, Runping/0000-0003-2496-0295
+TC 98
+Z9 109
+SN 1569-8432
+EI 1872-826X
+PD JUL
+PY 2019
+VL 79
+BP 48
+EP 57
+DI 10.1016/j.jag.2019.03.006
+UT WOS:000466820700005
+ER
+
+PT J
+AU Xu, ZH
+   Sun, H
+   Zhang, T
+   Xu, HY
+   Wu, D
+   Gao, JH
+AF Xu, Zhenheng
+   Sun, Hao
+   Zhang, Tian
+   Xu, Huanyu
+   Wu, Dan
+   Gao, JinHua
+TI Evaluating established deep learning methods in constructing integrated
+   remote sensing drought index: A case study in China
+SO AGRICULTURAL WATER MANAGEMENT
+RI Sun, Hao/GLR-2033-2022
+OI Sun, Hao/0000-0002-6315-4838; Xu, Zhenheng/0000-0003-2907-2764
+TC 4
+Z9 5
+SN 0378-3774
+EI 1873-2283
+PD AUG 1
+PY 2023
+VL 286
+AR 108405
+DI 10.1016/j.agwat.2023.108405
+EA JUN 2023
+UT WOS:001033115500001
+ER
+
+PT J
+AU Lu, J
+   Fu, HK
+   Tang, XH
+   Liu, Z
+   Huang, JJ
+   Zou, WL
+   Chen, H
+   Sun, Y
+   Ning, XY
+   Li, J
+AF Lu, Jian
+   Fu, Hongkun
+   Tang, Xuhui
+   Liu, Zhao
+   Huang, Jujian
+   Zou, Wenlong
+   Chen, Hui
+   Sun, Yue
+   Ning, Xiangyu
+   Li, Jian
+TI GOA-optimized deep learning for soybean yield estimation using
+   multi-source remote sensing data
+SO SCIENTIFIC REPORTS
+RI li, jiani/HNJ-1498-2023
+TC 2
+Z9 2
+SN 2045-2322
+PD MAR 26
+PY 2024
+VL 14
+IS 1
+AR 7097
+DI 10.1038/s41598-024-57278-6
+UT WOS:001191155200008
+PM 38528045
+ER
+
+PT J
+AU Prodhan, FA
+   Zhang, JH
+   Yao, FM
+   Shi, LM
+   Sharma, TPP
+   Zhang, D
+   Cao, D
+   Zheng, MX
+   Ahmed, N
+   Mohana, HP
+AF Prodhan, Foyez Ahmed
+   Zhang, Jiahua
+   Yao, Fengmei
+   Shi, Lamei
+   Pangali Sharma, Til Prasad
+   Zhang, Da
+   Cao, Dan
+   Zheng, Minxuan
+   Ahmed, Naveed
+   Mohana, Hasiba Pervin
+TI Deep Learning for Monitoring Agricultural Drought in South Asia Using
+   Remote Sensing Data
+SO REMOTE SENSING
+RI Sharma, Til/AAM-7180-2021; Prodhan, Foyez/AAN-9543-2020; Zhang,
+   Jiahua/KFS-4615-2024
+OI Zhang, Jiahua/0000-0002-2894-9627; Prodhan, Foyez/0000-0003-3109-0558;
+   Pangali Sharma, Til Prasad/0000-0002-9211-8238; Ahmed,
+   Naveed/0000-0001-5373-2377
+TC 36
+Z9 36
+EI 2072-4292
+PD MAY
+PY 2021
+VL 13
+IS 9
+AR 1715
+DI 10.3390/rs13091715
+UT WOS:000650750700001
+ER
+
+PT J
+AU Wan, LH
+   Li, SH
+   Chen, Y
+   He, Z
+   Shi, YL
+AF Wan, Lihong
+   Li, Shihua
+   Chen, Yao
+   He, Ze
+   Shi, Yanli
+TI Application of Deep Learning in Land Use Classification for Soil Erosion
+   Using Remote Sensing
+SO FRONTIERS IN EARTH SCIENCE
+RI Li, Shihua/AGF-0162-2022
+OI li, shihua/0000-0003-4807-5012
+TC 5
+Z9 6
+EI 2296-6463
+PD APR 25
+PY 2022
+VL 10
+AR 849531
+DI 10.3389/feart.2022.849531
+UT WOS:000805876000001
+ER
+
+PT J
+AU Ferchichi, A
+   Chihaoui, M
+   Ferchichi, A
+AF Ferchichi, Ahlem
+   Chihaoui, Mejda
+   Ferchichi, Aya
+TI Spatio-temporal modeling of climate change impacts on drought forecast
+   using Generative Adversarial Network: A case study in Africa
+SO EXPERT SYSTEMS WITH APPLICATIONS
+RI FERCHICHI, AHLEM/AHA-5054-2022; chihaoui, mejda/AHA-4105-2022
+OI Chihaoui, MEJDA/0000-0002-4432-0319; FERCHICHI,
+   AHLEM/0009-0009-0120-3962
+TC 1
+Z9 1
+SN 0957-4174
+EI 1873-6793
+PD MAR 15
+PY 2024
+VL 238
+AR 122211
+DI 10.1016/j.eswa.2023.122211
+EA NOV 2023
+PN F
+UT WOS:001105381700001
+ER
+
+PT J
+AU Foroumandi, E
+   Nourani, V
+   Huang, JJ
+   Moradkhani, H
+AF Foroumandi, Ehsan
+   Nourani, Vahid
+   Huang, Jinhui Jeanne
+   Moradkhani, Hamid
+TI Drought monitoring by downscaling GRACE-derived terrestrial water
+   storage anomalies: A deep learning approach
+SO JOURNAL OF HYDROLOGY
+RI Nourani, Vahid/F-4051-2017; Moradkhani, Hamid/B-1571-2012; Foroumandi,
+   Ehsan/CAH-3797-2022
+OI Foroumandi, Ehsan/0000-0001-6867-7550
+TC 31
+Z9 32
+SN 0022-1694
+EI 1879-2707
+PD JAN
+PY 2023
+VL 616
+AR 128838
+DI 10.1016/j.jhydrol.2022.128838
+EA DEC 2022
+UT WOS:000896644100004
+ER
+
+PT J
+AU Okada, M
+   Barras, C
+   Toda, Y
+   Hamazaki, K
+   Ohmori, Y
+   Yamasaki, Y
+   Takahashi, H
+   Takanashi, H
+   Tsuda, M
+   Hirai, MY
+   Tsujimoto, H
+   Kaga, A
+   Nakazono, M
+   Fujiwara, T
+   Iwata, H
+AF Okada, Mashiro
+   Barras, Clement
+   Toda, Yusuke
+   Hamazaki, Kosuke
+   Ohmori, Yoshihiro
+   Yamasaki, Yuji
+   Takahashi, Hirokazu
+   Takanashi, Hideki
+   Tsuda, Mai
+   Hirai, Masami Yokota
+   Tsujimoto, Hisashi
+   Kaga, Akito
+   Nakazono, Mikio
+   Fujiwara, Toru
+   Iwata, Hiroyoshi
+TI High-Throughput Phenotyping of Soybean Biomass: Conventional Trait
+   Estimation and Novel Latent Feature Extraction Using UAV Remote Sensing
+   and Deep Learning Models
+SO PLANT PHENOMICS
+RI Ohmori, Yoshihiro/O-4455-2014
+OI Hamazaki, Kosuke/0000-0002-7486-7438
+TC 0
+Z9 0
+SN 2643-6515
+PD SEP 9
+PY 2024
+VL 6
+AR 0244
+DI 10.34133/plantphenomics.0244
+UT WOS:001313483300001
+PM 39252878
+ER
+
+PT J
+AU Moradkhani, K
+   Fathi, A
+AF Moradkhani, Kaveh
+   Fathi, Abdolhossein
+TI Segmentation of waterbodies in remote sensing images using deep stacked
+   ensemble model
+SO APPLIED SOFT COMPUTING
+RI Moradkhani, Kaveh/JDM-4603-2023; Fathi, Abdolhossein/ABH-8117-2020
+OI Fathi, Abdolhossein/0000-0003-0387-5518; Moradkhani,
+   Kaveh/0009-0002-4372-073X
+TC 8
+Z9 8
+SN 1568-4946
+EI 1872-9681
+PD JUL
+PY 2022
+VL 124
+AR 109038
+DI 10.1016/j.asoc.2022.109038
+EA JUN 2022
+UT WOS:000808523400002
+ER
+
+PT J
+AU Mao, KB
+   Wang, H
+   Shi, JC
+   Heggy, E
+   Wu, SL
+   Bateni, SM
+   Du, GM
+AF Mao, Kebiao
+   Wang, Han
+   Shi, Jiancheng
+   Heggy, Essam
+   Wu, Shengli
+   Bateni, Sayed M. M.
+   Du, Guoming
+TI A General Paradigm for Retrieving Soil Moisture and Surface Temperature
+   from Passive Microwave Remote Sensing Data Based on Artificial
+   Intelligence
+SO REMOTE SENSING
+RI Wu, Shengli/Y-9381-2019; Shi, Jiancheng/HIU-0908-2022; Heggy,
+   Essam/E-8250-2013
+OI Wu, Shengli/0000-0002-5930-3183; Bateni, Sayed/0000-0002-7134-0067; mao,
+   kebiao/0000-0002-1288-8428; Heggy, Essam/0000-0001-7476-2735
+TC 8
+Z9 8
+EI 2072-4292
+PD APR
+PY 2023
+VL 15
+IS 7
+AR 1793
+DI 10.3390/rs15071793
+UT WOS:000969951500001
+ER
+
+PT J
+AU Gavahi, K
+   Foroumandi, E
+   Moradkhani, H
+AF Gavahi, Keyhan
+   Foroumandi, Ehsan
+   Moradkhani, Hamid
+TI A deep learning-based framework for multi-source precipitation fusion
+SO REMOTE SENSING OF ENVIRONMENT
+RI Foroumandi, Ehsan/CAH-3797-2022; Moradkhani, Hamid/B-1571-2012
+OI Foroumandi, Ehsan/0000-0001-6867-7550; Moradkhani,
+   Hamid/0000-0002-2889-999X
+TC 14
+Z9 14
+SN 0034-4257
+EI 1879-0704
+PD SEP 1
+PY 2023
+VL 295
+AR 113723
+DI 10.1016/j.rse.2023.113723
+EA JUL 2023
+UT WOS:001047341600001
+ER
+
+PT J
+AU Khatri-Chhetri, P
+   van Wagtendonk, L
+   Hendryx, SM
+   Kane, V
+AF Khatri-Chhetri, Pratima
+   van Wagtendonk, Liz
+   Hendryx, Sean M.
+   Kane, Van R.
+TI Enhancing individual tree mortality mapping: The impact of models, data
+   modalities, and classification taxonomy
+SO REMOTE SENSING OF ENVIRONMENT
+RI KC, Pratima/HOA-8405-2023
+OI Khatri-Chhetri, Pratima/0000-0003-4689-2027
+TC 3
+Z9 4
+SN 0034-4257
+EI 1879-0704
+PD JAN 1
+PY 2024
+VL 300
+AR 113914
+DI 10.1016/j.rse.2023.113914
+EA NOV 2023
+UT WOS:001124176500001
+ER
+
+PT J
+AU Scarpetta, M
+   Spadavecchia, M
+   Affuso, P
+   D'Alessandro, VI
+   Giaquinto, N
+AF Scarpetta, Marco
+   Spadavecchia, Maurizio
+   Affuso, Paolo
+   D'Alessandro, Vito Ivano
+   Giaquinto, Nicola
+TI Use of the SNOWED Dataset for Sentinel-2 Remote Sensing of Water Bodies:
+   The Case of the Po River
+SO SENSORS
+RI Giaquinto, Nicola/C-9961-2018; Spadavecchia, Maurizio/I-4889-2012;
+   Scarpetta, Marco/JQW-9753-2023
+OI Spadavecchia, Maurizio/0000-0002-7827-1156; GIAQUINTO,
+   Nicola/0000-0001-9209-4195; Scarpetta, Marco/0000-0002-2632-7357;
+   D'Alessandro, Vito Ivano/0000-0003-0774-7337
+TC 0
+Z9 0
+EI 1424-8220
+PD SEP
+PY 2024
+VL 24
+IS 17
+AR 5827
+DI 10.3390/s24175827
+UT WOS:001311368300001
+PM 39275738
+ER
+
+PT J
+AU Liu, LZ
+   Zhang, QL
+   Guo, Y
+   Chen, ER
+   Li, ZY
+   Li, Y
+   Wang, B
+   Ri, A
+AF Liu, Lizhi
+   Zhang, Qiuliang
+   Guo, Ying
+   Chen, Erxue
+   Li, Zengyuan
+   Li, Yu
+   Wang, Bing
+   Ri, Ana
+TI Mapping the Distribution and Dynamics of Coniferous Forests in Large
+   Areas from 1985 to 2020 Combining Deep Learning and Google Earth Engine
+SO REMOTE SENSING
+RI Wang, Pengfei/M-8060-2013; wang, wei/JYP-7819-2024; Guo,
+   Ying/HFZ-8035-2022; Zhang, Qiuliang/AAT-9209-2021
+OI Liu, Lizhi/0000-0002-4612-512X; Wang, Bing/0000-0003-0015-5611
+TC 3
+Z9 3
+EI 2072-4292
+PD MAR
+PY 2023
+VL 15
+IS 5
+AR 1235
+DI 10.3390/rs15051235
+UT WOS:000947366300001
+ER
+
+PT J
+AU Mithra, S
+   Nagamalleswari, TYJ
+AF Mithra, S.
+   Nagamalleswari, T. Y. J.
+TI An analysis of deep learning models for dry land farming applications
+SO APPLIED GEOMATICS
+OI S, Mithra/0000-0002-5814-3333
+TC 4
+Z9 4
+SN 1866-9298
+EI 1866-928X
+PD MAR
+PY 2024
+VL 16
+IS 1
+BP 315
+EP 315
+DI 10.1007/s12518-022-00425-3
+EA APR 2022
+UT WOS:000777270500001
+ER
+
+PT J
+AU Zhang, YH
+   Xie, DL
+   Tian, W
+   Zhao, HJ
+   Geng, ST
+   Lu, HY
+   Ma, GY
+   Huang, J
+   Sian, KTCLK
+AF Zhang, Yonghong
+   Xie, Donglin
+   Tian, Wei
+   Zhao, Huajun
+   Geng, Sutong
+   Lu, Huanyu
+   Ma, Guangyi
+   Huang, Jie
+   Sian, Kenny Thiam Choy Lim Kam
+TI Construction of an Integrated Drought Monitoring Model Based on Deep
+   Learning Algorithms
+SO REMOTE SENSING
+RI Zhang, Yonghong/IXE-1205-2023; Lim Kam Sian, Kenny/AAW-8241-2021
+OI Geng, Sutong/0009-0002-5163-8656; Tian, Wei/0000-0001-8113-3718; xie,
+   donglin/0000-0002-3955-986X; Zhang, Yonghong/0000-0003-3011-3113
+TC 9
+Z9 9
+EI 2072-4292
+PD FEB
+PY 2023
+VL 15
+IS 3
+AR 667
+DI 10.3390/rs15030667
+UT WOS:000930179000001
+ER
+
+PT J
+AU Abbes, AB
+   Inoubli, R
+   Rhif, M
+   Farah, IR
+AF Abbes, Ali Ben
+   Inoubli, Raja
+   Rhif, Manel
+   Farah, Imed Riadh
+TI Combining deep learning methods and multi-resolution analysis for
+   drought forecasting modeling
+SO EARTH SCIENCE INFORMATICS
+RI farah, imed/AAL-7809-2021
+TC 5
+Z9 5
+SN 1865-0473
+EI 1865-0481
+PD 2023 APR 24
+PY 2023
+DI 10.1007/s12145-023-01009-4
+EA APR 2023
+UT WOS:000976968800001
+ER
+
+PT J
+AU Balajee, J
+   Durai, MAS
+AF Balajee, J.
+   Durai, M. A. Saleem
+TI RETRACTED: Drought Prediction and Analysis of Water level based on
+   satellite images Using Deep Convolutional Neural Network (Retracted
+   Article)
+SO INTERNATIONAL JOURNAL OF SPEECH TECHNOLOGY
+RI , Balajee/M-8536-2014
+TC 1
+Z9 1
+SN 1381-2416
+EI 1572-8110
+PD 2021 MAY 21
+PY 2021
+DI 10.1007/s10772-021-09850-y
+EA MAY 2021
+UT WOS:000652921800001
+ER
+
+PT J
+AU Zhou, JW
+   Fan, YG
+   Guan, QC
+   Feng, GY
+AF Zhou, Junwei
+   Fan, Yanguo
+   Guan, Qingchun
+   Feng, Guangyue
+TI Research on Drought Monitoring Based on Deep Learning: A Case Study of
+   the Huang-Huai-Hai Region in China
+SO LAND
+TC 1
+Z9 1
+EI 2073-445X
+PD MAY
+PY 2024
+VL 13
+IS 5
+AR 615
+DI 10.3390/land13050615
+UT WOS:001232446700001
+ER
+
+PT J
+AU Rao, K
+   Williams, AP
+   Flefil, JF
+   Konings, AG
+AF Rao, Krishna
+   Williams, A. Park
+   Flefil, Jacqueline Fortin
+   Konings, Alexandra G.
+TI SAR-enhanced mapping of live fuel moisture content
+SO REMOTE SENSING OF ENVIRONMENT
+RI Williams, Park/IQU-0801-2023; Williams, Park/B-8214-2016
+OI Williams, Park/0000-0001-8176-8166; Konings,
+   Alexandra/0000-0002-2810-1722; Rao, Krishna/0000-0002-8912-0441
+TC 53
+Z9 60
+SN 0034-4257
+EI 1879-0704
+PD AUG
+PY 2020
+VL 245
+AR 111797
+DI 10.1016/j.rse.2020.111797
+UT WOS:000537687300004
+ER
+
+PT J
+AU Zhang, Q
+   Shi, R
+   Singh, VP
+   Xu, CY
+   Yu, HQ
+   Fan, KK
+   Wu, ZX
+AF Zhang, Qiang
+   Shi, Rui
+   Singh, Vijay P.
+   Xu, Chong-Yu
+   Yu, Huiqian
+   Fan, Keke
+   Wu, Zixuan
+TI Droughts across China: Drought factors, prediction and impacts
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+RI Wu, Zixuan/HPF-0454-2023; SINGH, VIJAY/ACV-1417-2022; Fan,
+   Keke/M-2578-2017; Xu, Chong-Yu/B-2941-2012
+OI Xu, Chong-Yu/0000-0003-4826-5350
+TC 39
+Z9 40
+SN 0048-9697
+EI 1879-1026
+PD JAN 10
+PY 2022
+VL 803
+AR 150018
+DI 10.1016/j.scitotenv.2021.150018
+EA SEP 2021
+UT WOS:000701971500014
+PM 34525734
+ER
+
+PT J
+AU Foroumandi, E
+   Gavahi, K
+   Moradkhani, H
+AF Foroumandi, Ehsan
+   Gavahi, Keyhan
+   Moradkhani, Hamid
+TI Generative Adversarial Network for Real-Time Flash Drought Monitoring: A
+   Deep Learning Study
+SO WATER RESOURCES RESEARCH
+RI Foroumandi, Ehsan/CAH-3797-2022; Moradkhani, Hamid/B-1571-2012
+OI Moradkhani, Hamid/0000-0002-2889-999X; Foroumandi,
+   Ehsan/0000-0001-6867-7550
+TC 0
+Z9 0
+SN 0043-1397
+EI 1944-7973
+PD MAY
+PY 2024
+VL 60
+IS 5
+AR e2023WR035600
+DI 10.1029/2023WR035600
+UT WOS:001215020900001
+ER
+
+PT J
+AU Li, N
+   Xu, XH
+   Huang, SF
+   Sun, YY
+   Ma, JW
+   Zhu, H
+   Hu, MC
+AF Li, Nan
+   Xu, Xiaohua
+   Huang, Shifeng
+   Sun, Yayong
+   Ma, Jianwei
+   Zhu, He
+   Hu, Mengcheng
+TI CRAUnet plus plus : A New Convolutional Neural Network for Land Surface
+   Water Extraction from Sentinel-2 Imagery by Combining RWI with Improved
+   Unet plus
+SO REMOTE SENSING
+TC 0
+Z9 0
+EI 2072-4292
+PD SEP
+PY 2024
+VL 16
+IS 18
+AR 3391
+DI 10.3390/rs16183391
+UT WOS:001323486200001
+ER
+
+PT J
+AU Sun, Y
+   Lao, DZ
+   Ruan, YJ
+   Huang, C
+   Xin, QC
+AF Sun, Ying
+   Lao, Dazhao
+   Ruan, Yongjian
+   Huang, Chen
+   Xin, Qinchuan
+TI A Deep Learning-Based Approach to Predict Large-Scale Dynamics of
+   Normalized Difference Vegetation Index for the Monitoring of Vegetation
+   Activities and Stresses Using Meteorological Data
+SO SUSTAINABILITY
+RI Xin, Qinchuan/O-3276-2014
+OI Xin, Qinchuan/0000-0003-1146-4874
+TC 4
+Z9 4
+EI 2071-1050
+PD APR
+PY 2023
+VL 15
+IS 8
+AR 6632
+DI 10.3390/su15086632
+UT WOS:000979611900001
+ER
+
+PT J
+AU Schwarz, S
+   Werner, C
+   Fassnacht, FE
+   Ruehr, NK
+AF Schwarz, Selina
+   Werner, Christian
+   Fassnacht, Fabian Ewald
+   Ruehr, Nadine K.
+TI Forest canopy mortality during the 2018-2020 summer drought years in
+   Central Europe: The application of a deep learning approach on aerial
+   images across Luxembourg
+SO FORESTRY
+RI Fassnacht, Fabian/AAL-5524-2020; Schwarz, Selina/GWZ-2023-2022; Ruehr,
+   Nadine/C-6986-2011
+OI Schwarz, Selina/0000-0001-6042-1649; Ruehr, Nadine/0000-0001-5989-7463
+TC 2
+Z9 2
+SN 0015-752X
+EI 1464-3626
+PD 2023 OCT 11
+PY 2023
+DI 10.1093/forestry/cpad049
+EA OCT 2023
+UT WOS:001081321100001
+ER
+
+PT J
+AU Feng, JJ
+   Wang, WZ
+   Che, T
+   Xu, FN
+   Dong, LL
+AF Feng, Jiaojiao
+   Wang, Weizhen
+   Che, Tao
+   Xu, Feinan
+   Dong, Leilei
+TI The effect of pixel heterogeneity on surface heat and water vapor flux
+   estimated by the remote sensing-based model coupled with deep learning
+SO JOURNAL OF HYDROLOGY
+RI Che, Tao/K-7136-2013
+TC 1
+Z9 1
+SN 0022-1694
+EI 1879-2707
+PD OCT
+PY 2023
+VL 625
+AR 130036
+DI 10.1016/j.jhydrol.2023.130036
+EA AUG 2023
+PN A
+UT WOS:001068418000001
+ER
+
+PT J
+AU Tian, HR
+   Wang, PX
+   Tansey, K
+   Wang, J
+   Quan, WT
+   Liu, JM
+AF Tian, Huiren
+   Wang, Pengxin
+   Tansey, Kevin
+   Wang, Jie
+   Quan, Wenting
+   Liu, Junming
+TI Attention mechanism-based deep learning approach for wheat yield
+   estimation and uncertainty analysis from remotely sensed variables
+SO AGRICULTURAL AND FOREST METEOROLOGY
+OI Tansey, Kevin/0000-0002-9116-8081
+TC 0
+Z9 0
+SN 0168-1923
+EI 1873-2240
+PD SEP 15
+PY 2024
+VL 356
+AR 110183
+DI 10.1016/j.agrformet.2024.110183
+EA AUG 2024
+UT WOS:001288612200001
+ER
+
+PT J
+AU Balti, H
+   Ben Abbes, A
+   Farah, IR
+AF Balti, Hanen
+   Ben Abbes, Ali
+   Farah, Imed Riadh
+TI A Bi-GRU-based encoder-decoder framework for multivariate time series
+   forecasting
+SO SOFT COMPUTING
+RI farah, imed/AAL-7809-2021; balti, hanen/HLG-7053-2023
+OI Balti, Hanen/0000-0003-2725-226X; Ben Abbes, Ali/0000-0001-5714-7562
+TC 3
+Z9 3
+SN 1432-7643
+EI 1433-7479
+PD 2024 JAN 5
+PY 2024
+DI 10.1007/s00500-023-09531-9
+EA JAN 2024
+UT WOS:001136826400001
+ER
+
+PT J
+AU Celik, MF
+   Isik, MS
+   Yuzugullu, O
+   Fajraoui, N
+   Erten, E
+AF Celik, Mehmet Furkan
+   Isik, Mustafa Serkan
+   Yuzugullu, Onur
+   Fajraoui, Noura
+   Erten, Esra
+TI Soil Moisture Prediction from Remote Sensing Images Coupled with
+   Climate, Soil Texture and Topography via Deep Learning
+SO REMOTE SENSING
+RI Celik, Mehmet Furkan/Q-4383-2016; Erten, Esra/ABC-7914-2020; Isik,
+   Mustafa/CAI-2691-2022
+OI Erten, Esra/0000-0002-4208-7170; Celik, Mehmet
+   Furkan/0000-0001-7948-536X; Isik, Serkan/0000-0003-1769-4451
+TC 18
+Z9 19
+EI 2072-4292
+PD NOV
+PY 2022
+VL 14
+IS 21
+AR 5584
+DI 10.3390/rs14215584
+UT WOS:000884076300001
+ER
+
+PT J
+AU Teixeira, AMD
+   Batista, LV
+   Silva, RMD
+   Freitas, LMT
+   Santos, CAG
+AF Teixeira, Ariane Marina de Albuquerque
+   Batista, Leonardo Vidal
+   Silva, Richarde Marques da
+   Freitas, Luccas Matheus Torres
+   Santos, Celso Augusto Guimaraes
+TI Dynamic monitoring of surface area and water volume of reservoirs using
+   satellite imagery, computer vision and deep learning
+SO REMOTE SENSING APPLICATIONS-SOCIETY AND ENVIRONMENT
+RI Batista, Leonardo/GLS-3624-2022; da Silva, Richarde/AAB-2690-2021;
+   Santos, Celso Augusto Guimaraes/G-1816-2010; da Silva, Richarde
+   Marques/C-2264-2015
+OI Santos, Celso Augusto Guimaraes/0000-0001-7927-9718; da Silva, Richarde
+   Marques/0000-0001-6601-5174; Batista, Leonardo/0000-0002-1069-3002;
+   Freitas, Luccas/0009-0004-2840-0177
+TC 0
+Z9 0
+SN 2352-9385
+PD AUG
+PY 2024
+VL 35
+AR 101205
+DI 10.1016/j.rsase.2024.101205
+EA APR 2024
+UT WOS:001235080500001
+ER
+
+PT J
+AU Tripathy, KP
+   Mishra, AK
+AF Tripathy, Kumar Puran
+   Mishra, Ashok K.
+TI Deep learning in hydrology and water resources disciplines: concepts,
+   methods, applications, and research directions
+SO JOURNAL OF HYDROLOGY
+RI Mishra, Ashok/J-7228-2019
+OI TRIPATHY, KUMAR PURAN/0000-0002-2451-0166
+TC 24
+Z9 24
+SN 0022-1694
+EI 1879-2707
+PD JAN
+PY 2024
+VL 628
+AR 130458
+DI 10.1016/j.jhydrol.2023.130458
+EA JAN 2024
+UT WOS:001158276900001
+ER
+
+PT J
+AU Dao, PD
+   He, YH
+   Proctor, C
+AF Dao, Phuong D.
+   He, Yuhong
+   Proctor, Cameron
+TI Plant drought impact detection using ultra-high spatial resolution
+   hyperspectral images and machine learning
+SO INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+RI Dao, Phuong D./H-1641-2017
+OI Dao, Phuong D./0000-0002-3712-9022
+TC 36
+Z9 39
+SN 1569-8432
+EI 1872-826X
+PD OCT
+PY 2021
+VL 102
+AR 102364
+DI 10.1016/j.jag.2021.102364
+UT WOS:000700847200001
+ER
+
+PT J
+AU Gupta, R
+   Kim, H
+AF Gupta, Riya
+   Kim, Hudson
+TI A Geospatial Approach to Wildfire Risk Modeling Using Machine Learning
+   and Remote Sensing Data
+SO IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE
+   SENSING
+OI Gupta, Riya/0009-0002-7598-3200
+TC 0
+Z9 0
+SN 1939-1404
+EI 2151-1535
+PY 2024
+VL 17
+BP 13570
+EP 13576
+DI 10.1109/JSTARS.2024.3434368
+UT WOS:001290233800014
+ER
+
+PT J
+AU Dahal, D
+   Pastick, NJ
+   Boyte, SP
+   Parajuli, S
+   Oimoen, MJ
+   Megard, LJ
+AF Dahal, Devendra
+   Pastick, Neal J.
+   Boyte, Stephen P.
+   Parajuli, Sujan
+   Oimoen, Michael J.
+   Megard, Logan J.
+TI Multi-Species Inference of Exotic Annual and Native Perennial Grasses in
+   Rangelands of the Western United States Using Harmonized Landsat and
+   Sentinel-2 Data
+SO REMOTE SENSING
+RI Boyte, Steve/KBC-9623-2024; Parajuli, Sujan/AAD-2026-2022
+OI Dahal, Devendra/0000-0001-9594-1249; Parajuli, Sujan/0000-0002-1652-3063
+TC 14
+Z9 15
+EI 2072-4292
+PD FEB
+PY 2022
+VL 14
+IS 4
+AR 807
+DI 10.3390/rs14040807
+UT WOS:000821496300001
+ER
+
+PT J
+AU Buchsteiner, C
+   Baur, PA
+   Glatzel, S
+AF Buchsteiner, Claudia
+   Baur, Pamela Alessandra
+   Glatzel, Stephan
+TI Spatial Analysis of Intra-Annual Reed Ecosystem Dynamics at Lake
+   Neusiedl Using RGB Drone Imagery and Deep Learning
+SO REMOTE SENSING
+RI Glatzel, Stephan/AAE-8189-2019; Baur, Pamela/GWZ-8887-2022
+OI Glatzel, Stephan/0000-0002-2572-5484; Buchsteiner,
+   Claudia/0009-0007-6443-5803; Baur, Pamela/0000-0002-7258-4194
+TC 5
+Z9 5
+EI 2072-4292
+PD AUG
+PY 2023
+VL 15
+IS 16
+AR 3961
+DI 10.3390/rs15163961
+UT WOS:001055791400001
+ER
+
+PT J
+AU Cheng, Y
+   Oehmcke, S
+   Brandt, M
+   Rosenthal, L
+   Das, A
+   Vrieling, A
+   Saatchi, S
+   Wagner, F
+   Mugabowindekwe, M
+   Verbruggen, W
+   Beier, C
+   Horion, S
+AF Cheng, Yan
+   Oehmcke, Stefan
+   Brandt, Martin
+   Rosenthal, Lisa
+   Das, Adrian
+   Vrieling, Anton
+   Saatchi, Sassan
+   Wagner, Fabien
+   Mugabowindekwe, Maurice
+   Verbruggen, Wim
+   Beier, Claus
+   Horion, Stephanie
+TI Scattered tree death contributes to substantial forest loss in
+   California
+SO NATURE COMMUNICATIONS
+RI Horion, Stephanie/AAE-3226-2022; Mugabowindekwe, Maurice/AAU-1230-2020;
+   Brandt, Martin/E-4598-2015
+OI Verbruggen, Wim/0000-0002-3611-6561; Vrieling,
+   Anton/0000-0002-7979-1540; Horion, Stephanie/0000-0001-6716-1333;
+   Oehmcke, Stefan/0000-0002-0240-1559; Cheng, Yan/0000-0001-8658-4673;
+   Brandt, Martin/0000-0001-9531-1239; Mugabowindekwe,
+   Maurice/0000-0003-0803-7417
+TC 2
+Z9 3
+EI 2041-1723
+PD JAN 20
+PY 2024
+VL 15
+IS 1
+AR 641
+DI 10.1038/s41467-024-44991-z
+UT WOS:001146298600021
+PM 38245523
+ER
+
+PT J
+AU Butte, S
+   Vakanski, A
+   Duellman, K
+   Wang, HT
+   Mirkouei, A
+AF Butte, Sujata
+   Vakanski, Aleksandar
+   Duellman, Kasia
+   Wang, Haotian
+   Mirkouei, Amin
+TI Potato crop stress identification in aerial images using deep
+   learning-based object detection
+SO AGRONOMY JOURNAL
+RI Wang, Jovan/HGE-4135-2022; Butte, Sujata/IUM-8774-2023; Vakanski,
+   Aleksandar/AAE-6171-2020; Mirkouei, Amin/KHD-5170-2024
+OI Duellman, Kasia/0000-0003-2823-4098; Vakanski,
+   Aleksandar/0000-0003-3365-1291; Mirkouei, Amin/0000-0003-0644-3120
+TC 28
+Z9 28
+SN 0002-1962
+EI 1435-0645
+PD SEP
+PY 2021
+VL 113
+IS 5
+BP 3991
+EP 4002
+DI 10.1002/agj2.20841
+EA SEP 2021
+UT WOS:000698577200001
+ER
+
+PT J
+AU Yu, QT
+   Wang, SS
+   He, HJ
+   Yang, K
+   Ma, LF
+   Li, J
+AF Yu, Qiutong
+   Wang, Shusen
+   He, Hongjie
+   Yang, Ke
+   Ma, Lingfei
+   Li, Jonathan
+TI Reconstructing GRACE-like TWS anomalies for the Canadian landmass using
+   deep learning and land surface model
+SO INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+RI Li, Jonathan/AAA-7712-2021; He, Hongjie/ADO-1214-2022
+OI Ma, Lingfei/0000-0001-8893-9693; He, Hongjie/0000-0003-3839-5821; LI,
+   Jonathan/0000-0001-7899-0049
+TC 21
+Z9 21
+SN 1569-8432
+EI 1872-826X
+PD OCT
+PY 2021
+VL 102
+AR 102404
+DI 10.1016/j.jag.2021.102404
+UT WOS:000700852100004
+ER
+
+PT J
+AU Sharma, V
+   Honkavaara, E
+   Hayden, M
+   Kant, S
+AF Sharma, Vikas
+   Honkavaara, Eija
+   Hayden, Matthew
+   Kant, Surya
+TI UAV remote sensing phenotyping of wheat collection for response to water
+   stress and yield prediction using machine learning
+SO PLANT STRESS
+RI Sharma, Vikas/JBS-7141-2023
+OI Kant, Surya/0000-0001-6178-7036
+TC 4
+Z9 4
+SN 2667-064X
+PD JUN
+PY 2024
+VL 12
+AR 100464
+DI 10.1016/j.stress.2024.100464
+EA APR 2024
+UT WOS:001235968600001
+ER
+
+PT J
+AU Ahmed, AAM
+   Deo, RC
+   Ghahramani, A
+   Feng, Q
+   Raj, N
+   Yin, ZL
+   Yang, LS
+AF Ahmed, A. A. Masrur
+   Deo, Ravinesh C.
+   Ghahramani, Afshin
+   Feng, Qi
+   Raj, Nawin
+   Yin, Zhenliang
+   Yang, Linshan
+TI New double decomposition deep learning methods for river water level
+   forecasting
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+RI yang, linshan/JJE-7963-2023; Ghahramani, Afshin/C-4169-2012; Ahmed, A A
+   Masrur/AAR-6665-2021; Raj, Nawin/AAY-2846-2020; Deo,
+   Ravinesh/F-6157-2012
+OI Ahmed, Abul Abrar Masrur/0000-0002-7941-3902; Ghahramani,
+   Afshin/0000-0002-9648-4606
+TC 32
+Z9 33
+SN 0048-9697
+EI 1879-1026
+PD JUL 20
+PY 2022
+VL 831
+AR 154722
+DI 10.1016/j.scitotenv.2022.154722
+EA APR 2022
+UT WOS:000793322700004
+PM 35339552
+ER
+
+PT J
+AU Xie, YH
+   Wu, WJ
+   Li, XW
+   Shi, JK
+   Yu, T
+   Sun, XH
+AF Xie, Yuhan
+   Wu, Wenjin
+   Li, Xinwu
+   Shi, Jiankang
+   Yu, Tong
+   Sun, Xiaohui
+TI Multispectral UAV-Based Monitoring of Cassytha Filiformis Invasion in
+   Xisha Islands
+SO IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE
+   SENSING
+RI Wu, Wenjin/AAZ-6351-2020; Shi, Jiankang/JFJ-7278-2023
+OI Yu, Tong/0000-0002-4268-4258
+TC 0
+Z9 0
+SN 1939-1404
+EI 2151-1535
+PY 2024
+VL 17
+BP 829
+EP 841
+DI 10.1109/JSTARS.2023.3330768
+UT WOS:001126154600010
+ER
+
+PT J
+AU Lakshmi, TRV
+   Reddy, CVK
+   Kora, P
+   Swaraja, K
+   Meenakshi, K
+   Kumari, CU
+   Reddy, LP
+AF Lakshmi, T. R. Vijaya
+   Reddy, Ch. Venkata Krishna
+   Kora, Padmavathi
+   Swaraja, K.
+   Meenakshi, K.
+   Kumari, Ch. Usha
+   Reddy, L. Pratap
+TI Classification of multi-spectral data with fine-tuning variants of
+   representative models
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+RI Kumari, Usha/JPA-4885-2023; kuraparthi, swaraja/AAY-9068-2020; Vijaya
+   Bhaskar Reddy, Challa/CAA-0966-2022; T R, Vijaya Lakshmi/AAP-1431-2020
+OI , ch venkata krishna reddy/0000-0002-3319-5639; T R, Vijaya
+   Lakshmi/0000-0002-1197-2935
+TC 4
+Z9 4
+SN 1380-7501
+EI 1573-7721
+PD 2023 AUG 16
+PY 2023
+DI 10.1007/s11042-023-16291-z
+EA AUG 2023
+UT WOS:001049147100002
+ER
+
+PT J
+AU Nippani, S
+   Sharma, VK
+   Yadav, A
+   Sitender
+   Bhadra, BK
+AF Nippani, Sushma
+   Sharma, Vinod Kumar
+   Yadav, Anil
+   Sitender
+   Bhadra, B. K.
+TI High rainfall event identification using remote sensing satellite data
+   integrated with a hybrid deep learning framework
+SO PROCEEDINGS OF THE INDIAN NATIONAL SCIENCE ACADEMY
+TC 0
+Z9 0
+SN 0370-0046
+EI 2454-9983
+PD 2024 APR 22
+PY 2024
+DI 10.1007/s43538-024-00286-x
+EA APR 2024
+UT WOS:001206053500001
+ER
+
+PT J
+AU Yin, LB
+   Yan, SC
+   Li, M
+   Liu, WZ
+   Zhang, S
+   Xie, XY
+   Wang, XX
+   Wang, WT
+   Chang, SH
+   Hou, FJ
+AF Yin, Liubing
+   Yan, Shicheng
+   Li, Meng
+   Liu, Weizhe
+   Zhang, Shu
+   Xie, Xinyu
+   Wang, Xiaoxue
+   Wang, Wenting
+   Chang, Shenghua
+   Hou, Fujiang
+TI Enhancing soil moisture estimation in alfalfa root-zone using UAV-based
+   multimodal remote sensing and deep learning
+SO EUROPEAN JOURNAL OF AGRONOMY
+TC 0
+Z9 0
+SN 1161-0301
+EI 1873-7331
+PD NOV
+PY 2024
+VL 161
+AR 127366
+DI 10.1016/j.eja.2024.127366
+UT WOS:001322158900001
+ER
+
+PT J
+AU Feizizadeh, B
+   Garajeh, MK
+   Lakes, T
+   Blaschke, T
+AF Feizizadeh, Bakhtiar
+   Garajeh, Mohammad Kazemi
+   Lakes, Tobia
+   Blaschke, Thomas
+TI A deep learning convolutional neural network algorithm for detecting
+   saline flow sources and mapping the environmental impacts of the Urmia
+   Lake drought in Iran
+SO CATENA
+RI Blaschke, Thomas/F-3342-2011; Feizizadeh, Bakhtiar/ABC-9664-2021
+OI Blaschke, Thomas/0000-0002-1860-8458; Lakes, Tobia/0000-0001-8443-7899;
+   Kazemi Garajeh, Mohammad/0000-0002-7195-2813
+TC 47
+Z9 47
+SN 0341-8162
+EI 1872-6887
+PD DEC
+PY 2021
+VL 207
+AR 105585
+DI 10.1016/j.catena.2021.105585
+EA JUL 2021
+UT WOS:000703268900010
+ER
+
+PT J
+AU Parashar, N
+   Johri, P
+   Khan, AA
+   Gaur, N
+   Kadry, S
+AF Parashar, Nidhi
+   Johri, Prashant
+   Khan, Arfat Ahmad
+   Gaur, Nitin
+   Kadry, Seifedine
+TI An Integrated Analysis of Yield Prediction Models: A Comprehensive
+   Review of Advancements and Challenges
+SO CMC-COMPUTERS MATERIALS & CONTINUA
+TC 0
+Z9 0
+SN 1546-2218
+EI 1546-2226
+PY 2024
+VL 80
+IS 1
+BP 389
+EP 425
+DI 10.32604/cmc.2024.050240
+UT WOS:001290256900017
+ER
+
+PT J
+AU Yu, PX
+   Zhou, T
+   Luo, H
+   Liu, X
+   Shi, PJ
+   Zhang, YJ
+   Zhang, JZ
+   Zhou, PF
+   Xu, YX
+AF Yu, Peixin
+   Zhou, Tao
+   Luo, Hui
+   Liu, Xia
+   Shi, Peijun
+   Zhang, Yajie
+   Zhang, Jingzhou
+   Zhou, Peifang
+   Xu, Yixin
+TI Global Pattern of Ecosystem Respiration Tendencies and Its Implications
+   on Terrestrial Carbon Sink Potential
+SO EARTHS FUTURE
+RI zhang, yajie/GVT-3956-2022; Zhang, Jing/HII-4294-2022
+OI Yu, Peixin/0000-0001-8892-1119; Zhou, Tao/0000-0001-9533-0915
+TC 10
+Z9 10
+EI 2328-4277
+PD AUG
+PY 2022
+VL 10
+IS 8
+AR e2022EF002703
+DI 10.1029/2022EF002703
+UT WOS:000838671500001
+ER
+
+PT J
+AU Eddin, MHS
+   Gall, J
+AF Eddin, Mohamad Hakam Shams
+   Gall, Juergen
+TI Focal-TSMP: deep learning for vegetation health prediction and
+   agricultural drought assessment from a regional climate simulation
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+OI Shams Eddin, Mohamad Hakam/0000-0003-3136-4619
+TC 0
+Z9 0
+SN 1991-959X
+EI 1991-9603
+PD APR 16
+PY 2024
+VL 17
+IS 7
+BP 2987
+EP 3023
+DI 10.5194/gmd-17-2987-2024
+UT WOS:001203073500001
+ER
+
+PT J
+AU Huang, AQ
+   Shen, RP
+   Di, WL
+   Han, HM
+AF Huang, Anqi
+   Shen, Runping
+   Di, Wenli
+   Han, Huimin
+TI A methodology to reconstruct LAI time series data based on generative
+   adversarial network and improved Savitzky-Golay filter
+SO INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+RI Shen, Runping/AGH-7650-2022; Huang, Anqi/ABF-1903-2021
+OI Huang, Anqi/0000-0001-9261-5966; Shen, Runping/0000-0003-2496-0295
+TC 13
+Z9 14
+SN 1569-8432
+EI 1872-826X
+PD DEC 25
+PY 2021
+VL 105
+AR 102633
+DI 10.1016/j.jag.2021.102633
+UT WOS:000744230300005
+ER
+
+PT J
+AU Xiong, XG
+   Zhong, RH
+   Tian, QY
+   Huang, JF
+   Zhu, LC
+   Yang, Y
+   Lin, T
+AF Xiong, Xingguo
+   Zhong, Renhai
+   Tian, Qiyu
+   Huang, Jingfeng
+   Zhu, Linchao
+   Yang, Yi
+   Lin, Tao
+TI Daily DeepCropNet: A hierarchical deep learning approach with daily time
+   series of vegetation indices and climatic variables for corn yield
+   estimation
+SO ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING
+RI Huang, Jingfeng/J-1583-2014; Lin, Tao/AAB-3023-2020
+TC 1
+Z9 1
+SN 0924-2716
+EI 1872-8235
+PD MAR
+PY 2024
+VL 209
+BP 249
+EP 264
+DI 10.1016/j.isprsjprs.2024.02.008
+EA FEB 2024
+UT WOS:001200022700001
+ER
+
+PT J
+AU Mokhtar, A
+   He, HM
+   Nabil, M
+   Kouadri, S
+   Salem, A
+   Elbeltagi, A
+AF Mokhtar, Ali
+   He, Hongming
+   Nabil, Mohsen
+   Kouadri, Saber
+   Salem, Ali
+   Elbeltagi, Ahmed
+TI Securing China's rice harvest: unveiling dominant factors in production
+   using multi-source data and hybrid machine learning models
+SO SCIENTIFIC REPORTS
+RI He, Hongming/A-4161-2010; Elbeltagi, Ahmed/P-4614-2018; Nabil,
+   Mohsen/AAZ-2906-2021
+TC 1
+Z9 1
+SN 2045-2322
+PD JUN 26
+PY 2024
+VL 14
+IS 1
+AR 14699
+DI 10.1038/s41598-024-64269-0
+UT WOS:001259483400002
+PM 38926368
+ER
+
+PT J
+AU Liu, WH
+   He, HL
+   Wu, XJ
+   Ren, XL
+   Zhang, L
+   Shi, L
+   Feng, LL
+   Wang, YA
+   Lv, Y
+AF Liu, Weihua
+   He, Honglin
+   Wu, Xiaojing
+   Ren, Xiaoli
+   Zhang, Li
+   Shi, Liang
+   Feng, Lili
+   Wang, Yangang
+   Lv, Yan
+TI Importance of the memory effect for assessing interannual variation in
+   net ecosystem exchange
+SO AGRICULTURAL AND FOREST METEOROLOGY
+RI Wu, Xiaojing/ABG-4287-2021
+OI Liang, Shi/0000-0002-3553-6919
+TC 2
+Z9 2
+SN 0168-1923
+EI 1873-2240
+PD OCT 15
+PY 2023
+VL 341
+AR 109691
+DI 10.1016/j.agrformet.2023.109691
+EA AUG 2023
+UT WOS:001070951000001
+ER
+
+PT J
+AU Duan, YM
+   Zhang, WY
+   Huang, P
+   He, GJ
+   Guo, HX
+AF Duan, Yueming
+   Zhang, Wenyi
+   Huang, Peng
+   He, Guojin
+   Guo, Hongxiang
+TI A New Lightweight Convolutional Neural Network for Multi-Scale Land
+   Surface Water Extraction from GaoFen-1D Satellite Images
+SO REMOTE SENSING
+RI huang, peng/KBC-5715-2024
+TC 13
+Z9 15
+EI 2072-4292
+PD NOV
+PY 2021
+VL 13
+IS 22
+AR 4576
+DI 10.3390/rs13224576
+UT WOS:000728030300001
+ER
+
+PT J
+AU Fassinou, FJC
+   Cesaro, JD
+   Nungi-Pambu, M
+   Fensholt, R
+   Brandt, M
+   Akodewou, A
+   Diouf, AA
+   Mbaye, T
+   Taugourdeau, S
+AF Fassinou, Frejuste Joseph Cofelas
+   Cesaro, Jean -Daniel
+   Nungi-Pambu, Maialicah
+   Fensholt, Rasmus
+   Brandt, Martin
+   Akodewou, Amah
+   Diouf, Abdoul Aziz
+   Mbaye, Tamsir
+   Taugourdeau, Simon
+TI Quantifying the impact of Great Green Wall and Corporate plantations on
+   tree density and biomass in Sahelian Senegal
+SO TREES FORESTS AND PEOPLE
+RI Simon, Taugourdeau/ABF-9503-2021; Brandt, Martin/E-4598-2015
+OI Brandt, Martin/0000-0001-9531-1239; Fassinou, Frejuste Joseph
+   Cofelas/0000-0002-9509-1317
+TC 0
+Z9 0
+EI 2666-7193
+PD JUN
+PY 2024
+VL 16
+AR 100569
+DI 10.1016/j.tfp.2024.100569
+UT WOS:001244224000001
+ER
+
+PT J
+AU Matejcikova, J
+   Vébrová, D
+   Surovy, P
+AF Matejcikova, Julia
+   Vebrova, Dana
+   Surovy, Peter
+TI Comparative Analysis of Machine Learning Techniques and Data Sources for
+   Dead Tree Detection: What Is the Best Way to Go?
+SO REMOTE SENSING
+OI Matejcikova, Julia/0009-0002-5654-7163; Surovy,
+   Peter/0000-0001-6637-8661
+TC 0
+Z9 0
+EI 2072-4292
+PD AUG
+PY 2024
+VL 16
+IS 16
+AR 3086
+DI 10.3390/rs16163086
+UT WOS:001305203900001
+ER
+
+PT J
+AU Wang, WW
+   Zhang, CM
+   Li, F
+   Song, JJ
+   Li, PQ
+   Zhang, YH
+AF Wang, Wenwen
+   Zhang, Chengming
+   Li, Feng
+   Song, Jiaojie
+   Li, Peiqi
+   Zhang, Yuhua
+TI Extracting Soil Moisture from<i>Fengyun-3D</i>Medium Resolution Spectral
+   Imager-II Imagery by Using a Deep Belief Network
+SO JOURNAL OF METEOROLOGICAL RESEARCH
+TC 10
+Z9 10
+SN 2095-6037
+EI 2198-0934
+PD AUG
+PY 2020
+VL 34
+IS 4
+BP 748
+EP 759
+DI 10.1007/s13351-020-9191-x
+UT WOS:000565793100006
+ER
+
+PT J
+AU de Albuquerque, AO
+   de Carvalho, OA
+   de Carvalho, OLF
+   de Bem, PP
+   Ferreira, PHG
+   de Moura, RD
+   Silva, CR
+   Gomes, RAT
+   Guimaraes, RF
+AF de Albuquerque, Anesmar Olino
+   de Carvalho Junior, Osmar Abilio
+   Ferreira de Carvalho, Osmar Luiz
+   de Bem, Pablo Pozzobon
+   Guimaraes Ferreira, Pedro Henrique
+   de Moura, Rebeca dos Santos
+   Silva, Cristiano Rosa
+   Trancoso Gomes, Roberto Arnaldo
+   Guimaraes, Renato Fontes
+TI Deep Semantic Segmentation of Center Pivot Irrigation Systems from
+   Remotely Sensed Data
+SO REMOTE SENSING
+RI Gomes, Roberto/AAI-3379-2020; Carvalho, Osmar/ABA-5267-2021; de,
+   Pablo/AAW-5619-2020; Guimaraes, Renato/C-4601-2013; de Carvalho Junior,
+   Osmar Abilio/AAK-4880-2021
+OI de Bem, Pablo/0000-0003-3868-8704; Guimaraes,
+   Renato/0000-0002-9555-043X; Moura, Rebeca/0000-0002-7685-8826; Trancoso
+   Gomes, Roberto Arnaldo/0000-0003-4724-4064; Carvalho, Osmar
+   Luiz/0000-0002-5619-8525; ALBUQUERQUE, ANESMAR OLINO
+   DE/0000-0003-1561-7583; de Carvalho Junior, Osmar
+   Abilio/0000-0002-0346-1684
+TC 35
+Z9 37
+EI 2072-4292
+PD JUL
+PY 2020
+VL 12
+IS 13
+AR 2159
+DI 10.3390/rs12132159
+UT WOS:000550845400001
+ER
+
+PT J
+AU Junttila, S
+   Blomqvist, M
+   Laukkanen, V
+   Heinaro, E
+   Polvivaara, A
+   O'Sullivan, H
+   Yrttimaa, T
+   Vastaranta, M
+   Peltola, H
+AF Junttila, S.
+   Blomqvist, M.
+   Laukkanen, V.
+   Heinaro, E.
+   Polvivaara, A.
+   O'Sullivan, H.
+   Yrttimaa, T.
+   Vastaranta, M.
+   Peltola, H.
+TI Significant increase in forest canopy mortality in boreal forests in
+   Southeast Finland
+SO FOREST ECOLOGY AND MANAGEMENT
+RI Blomqvist, Minna/AGY-5892-2022; Junttila, Samuli/I-2357-2019;
+   Vastaranta, Mikko/K-9656-2018
+OI Junttila, Samuli/0000-0001-8276-9259; Vastaranta,
+   Mikko/0000-0001-6552-9122; O'Sullivan, Hannah/0000-0002-8477-0226;
+   Blomqvist, Minna/0000-0003-2328-8839
+TC 0
+Z9 0
+SN 0378-1127
+EI 1872-7042
+PD AUG 1
+PY 2024
+VL 565
+AR 122020
+DI 10.1016/j.foreco.2024.122020
+EA JUN 2024
+UT WOS:001251331800001
+ER
+
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tong, CF
+   Hou, HF
+   Zheng, HX
+   Wang, Y
+   Liu, J
+AF Tong, Changfu
+   Hou, Hongfei
+   Zheng, Hexiang
+   Wang, Ying
+   Liu, Jin
+TI A Coupled Model for Forecasting Spatiotemporal Variability of Regional
+   Drought in the Mu Us Sandy Land Using a Meta-Heuristic Algorithm
+SO LAND
+EI 2073-445X
+PD NOV
+PY 2024
+VL 13
+IS 11
+AR 1731
+DI 10.3390/land13111731
+UT WOS:001365644000001
+ER
+
+EF
