@@ -1,1 +1,0 @@
-( TITLE-ABS-KEY ( "deep learning" ) AND TITLE-ABS-KEY ( "drought" ) ) AND ( TITLE-ABS-KEY ( "remote sensing" ) OR TITLE-ABS-KEY ( "remote-sensing" ) OR not "remote sensing" ) AND PUBYEAR > 2016 AND PUBYEAR < 2025 AND ( LIMIT-TO ( LANGUAGE , "English" ) ) AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
