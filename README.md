@@ -1,2 +1,19 @@
-# review_droughtDL
-This repository contains the files and materials related to the systematic review on the use of deep learning in the study of droughts. It will contain data tables, analysis results, and graphs used to compare and summarize the findings of the reviewed studies. The objective of this work is to provide a comprehensive overview of current approaches and deep learning techniques applied to drought monitoring and forecasting, with a focus on improving understanding of the application of computational methods for natural disaster management.
+# Deep Learning Approaches for Drought Forecasting, Monitoring and Impact Assessment: A Comprehensive Systematic Review
+
+This repository contains the data and supplementary materials for the systematic review.
+
+# 🌍 Overview
+
+Droughts are complex and multifaceted hazards with severe socio-environmental consequences. This study systematically reviews the application of deep learning (DL) models in drought prediction and monitoring, with a particular focus on the integration of remote sensing (RS) data.
+
+# 📁 Repository Structure
+
+```bash
+├── data/
+│   ├── data_selection.xlsx        # Article screening and inclusion/exclusion tracking
+│   └── data_extraction.xlsx       # Final metadata table with detailed annotations
+├── notebooks/
+│   └── data_representation/       # Scripts for generating graphs and figures
+├── figures/                       # Final figures used in the manuscript
+├── references/                    # BibTeX and RIS files with all cited literature
+└── README.md                      # Repository documentation
